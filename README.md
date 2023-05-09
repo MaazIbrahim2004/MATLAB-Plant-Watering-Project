@@ -5,19 +5,12 @@ This project is a simulation of watering a plant using an Arduino Uno board, a s
 To complete this project, you will need to have the following components:
 
 *MATLAB software
-
 *Arduino Uno board
-
 *MOSFET switch
-
 *Soil moisture sensor
-
 *Water pump
-
 *Cup to hold water
-
 *Micro USB to USB-A cable
-
 *9V battery
 
 For instructions on how to set up the hardware components, refer to the annotated setup picture in the repository. Once the components are set up, connect the Arduino board to your computer/PC using the micro USB to USB-A cable, open the MATLAB code in the MATLAB software, and run the code.
