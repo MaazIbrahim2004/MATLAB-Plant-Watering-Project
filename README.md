@@ -5,7 +5,6 @@ This project is a simulation of watering a plant using an Arduino Uno board, a s
 To complete this project, you will need to have the following components:
 
 *MATLAB software
-
 *Arduino Uno board
 
 *MOSFET switch
