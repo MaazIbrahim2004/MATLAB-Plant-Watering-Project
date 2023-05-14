@@ -1,5 +1,5 @@
 # MATLAB-Plant-Watering-Project
-This project is a simulation of watering a plant using an Arduino Uno board, a soil sensor, a MOSFET switch, and a water pump. The MATLAB code measures the voltage of the plant's soil and determines whether the plant needs watering based on a set threshold.
+this project is a simulation of watering a plant using an Arduino Uno board, a soil sensor, a MOSFET switch, and a water pump. The MATLAB code measures the voltage of the plant's soil and determines whether the plant needs watering based on a set threshold.
 
 #Design Analysis
 To simulate watering a plant using the MATLAB software, the following materials were required:
