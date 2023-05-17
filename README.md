@@ -23,4 +23,4 @@ When the sensor displayed a value under 3.4 volts, the pump connected to the MOS
 # Conclusions and Recommendations
 During the setup of the project, it was found that the yellow and white wire switch for the four-pin cable connected to the motion sensor wasn't recommended due to the likelihood of breaking the cable. A safer and less tedious option is to break off the A0 Rotary Potentiometer, allowing you to plug in the motion sensor into A0 with ease and no wire swap.
 
-Overall, this project successfully created a program that simulates watering a plant using an Arduino board and MATLAB software. With some modifications and improvements, this project could be useful for automating the watering of plants in real-life situations.
+Overall, this project successfully created a program that simulates watering a plant using an Arduino Grove board and MATLAB software. With some modifications and improvements, this project could be useful for automating the watering of plants in real-life situations.
